@@ -1,0 +1,7 @@
+Factura FAC-2026-07
+Proveedor: Empresa Demo SAS
+Fecha: 07/09/2026
+Subtotal: COP 237.500
+IVA: COP 237.500
+Total: COP 237.500
+Contacto: facturacion@empresa.test
