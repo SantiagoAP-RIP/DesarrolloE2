@@ -1,7 +1,0 @@
-Factura FAC-2026-04
-Proveedor: Empresa Demo SAS
-Fecha: 04/09/2026
-Subtotal: COP 200.000
-IVA: COP 200.000
-Total: COP 200.000
-Contacto: facturacion@empresa.test
