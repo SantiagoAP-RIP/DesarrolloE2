@@ -40,7 +40,7 @@ Sistema inteligente de gestión y análisis documental para el proyecto integrad
 Usuario inicial: `admin@documind.local`  
 Contraseña inicial: `password`
 
-## IA generativa obligatoria para la entrega
+## IA generativa 
 
 El procesamiento está preparado para usar una API compatible con OpenAI. Para activar la IA:
 
